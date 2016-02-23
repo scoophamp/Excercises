@@ -1,0 +1,12 @@
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\bin\Debug\Excersise9.exe.config
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\bin\Debug\Excersise9.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\bin\Debug\Excersise9.pdb
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\obj\Debug\Excersise9.csprojResolveAssemblyReference.cache
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\obj\Debug\Excersise9.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Excersise9\Excersise9\obj\Debug\Excersise9.pdb
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\bin\Debug\Excersise9.exe.config
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\obj\Debug\Excersise9.exe
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\obj\Debug\Excersise9.pdb
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\bin\Debug\Excersise9.exe
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\bin\Debug\Excersise9.pdb
+C:\Users\Hamp\Desktop\Skola\C#\Övningar\Excersise9\Excersise9\obj\Debug\Excersise9.csprojResolveAssemblyReference.cache

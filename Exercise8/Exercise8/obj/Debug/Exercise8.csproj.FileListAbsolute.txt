@@ -1,0 +1,6 @@
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\obj\Debug\Exercise8.csprojResolveAssemblyReference.cache
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\obj\Debug\Exercise8.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise8\Exercise8\obj\Debug\Exercise8.pdb
