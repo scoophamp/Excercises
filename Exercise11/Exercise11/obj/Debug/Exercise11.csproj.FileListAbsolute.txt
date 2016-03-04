@@ -1,0 +1,6 @@
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\bin\Debug\Exercise11.exe.config
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\obj\Debug\Exercise11.csprojResolveAssemblyReference.cache
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\bin\Debug\Exercise11.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\bin\Debug\Exercise11.pdb
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\obj\Debug\Exercise11.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Exercise11\Exercise11\obj\Debug\Exercise11.pdb
